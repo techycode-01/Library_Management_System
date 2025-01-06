@@ -1,6 +1,3 @@
-Here is the entire README file in one block of code:
-
-```markdown
 # Library Management System
 
 ## Project Overview
@@ -87,6 +84,3 @@ mvn spring-boot:run
 
 ## License
 This project is licensed under the MIT License.
-```
-
-You can now copy and paste this entire block into your `README.md` file.
